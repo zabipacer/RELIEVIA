@@ -6,12 +6,13 @@ import FeaturedSelection from './components/Featured'
 import WhyRelievia from './components/Why'
 import AboutRelievia from './components/AboutR'
 import CtaContact from './components/CTA'
+import RelieviaFAQ from './components/FAQ'
 const App = () => {
   return (
     <><Navbar />
     <Hero/>
     <ShopByCategory/>
-    <FeaturedSelection/>
+   <RelieviaFAQ/>
     <WhyRelievia/>
     <AboutRelievia/>
     <CtaContact/></>
