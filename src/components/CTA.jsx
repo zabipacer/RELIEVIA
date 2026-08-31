@@ -29,10 +29,10 @@ const CtaContact = () => {
             </p>
 
             <a
-              href="mailto:ali@releviapro.com"
+              href="mailto:ali@relieviapro.com"
               className="text-sm font-medium text-[#B5522E] hover:underline font-['Inter']"
             >
-              ali@releviapro.com
+              ali@relieviapro.com
             </a>
           </div>
 
@@ -48,10 +48,10 @@ const CtaContact = () => {
             </p>
 
             <a
-              href="mailto:support@releviapro.com"
+              href="mailto:support@relieviapro.com"
               className="text-sm font-medium text-[#B5522E] hover:underline font-['Inter']"
             >
-              support@releviapro.com
+              support@relieviapro.com
             </a>
           </div>
         </div>
